@@ -6,4 +6,4 @@
 *.iml
 *.ipr
 .DS_Store
-.class
+*.class
